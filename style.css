@@ -1,0 +1,109 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+h1
+{
+    font-size: 60px;
+    line-height: 0.5em;
+    color: dimgray;
+}
+h2
+{
+    font-size: 40px;
+    color: dimgray;
+}
+h3
+{
+    font-size: 30px;
+}
+h4
+{
+    font-size: 20px;
+    color: dimgray;
+}
+p
+{
+    color: dimgray;
+    margin-bottom: 65px;
+}
+.orange-highlight
+{
+    color: #FBA24F;
+}
+.half-width
+{
+    width: 50%;
+    float: left;
+}
+.top-banner
+{
+    margin-top: 5%;
+    margin-left: 7%;
+    height: 500px;
+}
+.link-button
+{
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(60deg, orange, tomato);
+    border-radius: 50px;
+    color: white;
+}
+.half-width img
+{
+    width: 75%;
+}
+.about-section
+{
+    margin-top: 10%;
+    margin-left: 7%;
+    height: 500px;
+}
+.recipies-section
+{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 7%;
+    height: 500px;
+}
+.one-width
+{
+    width: 26%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 60px gray;
+}
+.one-width img
+{
+    width: 90%;
+    padding: 5%;
+}
+.more-section
+{
+    height: 250px;
+    margin-top: 25%;
+    margin-left: 7%;
+    border-radius: 5%;
+}
+.three-width
+{
+    width: 26%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: center;
+    border-radius: 5%;
+    box-shadow: 10px 10px 60px gray;
+}
+footer
+{
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+}
